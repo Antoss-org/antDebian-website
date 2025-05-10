@@ -4,6 +4,8 @@
   <url>
     <loc>https://example.org/about/</loc>
   </url><url>
+    <loc>https://example.org/categories/</loc>
+  </url><url>
     <loc>https://example.org/firstpost/</loc>
   </url><url>
     <loc>https://example.org/</loc>
@@ -11,5 +13,7 @@
     <loc>https://example.org/about/people/</loc>
   </url><url>
     <loc>https://example.org/about/philosophy/</loc>
+  </url><url>
+    <loc>https://example.org/tags/</loc>
   </url>
 </urlset>
