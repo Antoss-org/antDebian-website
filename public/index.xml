@@ -2,30 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home page on Debian</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home page on Debian</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First post</title>
-      <link>https://example.org/firstpost/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/firstpost/</guid>
-      <description>This line is from content/firstpost.md.&#xA;Go to home</description>
-    </item>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>People</title>
-      <link>https://example.org/about/people/</link>
+      <link>http://localhost:1313/about/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/about/people/</guid>
+      <guid>http://localhost:1313/about/people/</guid>
       <description>Summary for people</description>
     </item>
     <item>
       <title>Philosophy</title>
-      <link>https://example.org/about/philosophy/</link>
+      <link>http://localhost:1313/about/philosophy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/about/philosophy/</guid>
+      <guid>http://localhost:1313/about/philosophy/</guid>
       <description>Summary for philosophy</description>
     </item>
   </channel>
