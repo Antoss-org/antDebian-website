@@ -1,10 +1,10 @@
 <header>
 	<ul>
 		<li>
-			<a href="/">{{ with resources.Get "images/debian-logo.png" }}
+			<a href="/">{{ with resources.Get "images/debian.png" }}
 				{{ with resources.Copy "img/new-image-name.jpg" . }}
-					<img src="{{ .RelPermalink }}" width="72"
-					alt="Debian Logo">
+					<img src="{{ .RelPermalink }}" width="76"
+					alt="Debian logo">
 				{{ end }}
 			{{ end }}</a>
 		</li>

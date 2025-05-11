@@ -71,7 +71,7 @@ header img {
 }
 
 header li:first-child {
-	padding: 0.1em 0.1em 0.11em 1.5%;
+	padding: 0.1em 0.1em 0.11em 1%;
 	/* padding: 0.04em 0.1em 0.07em 1.5%; */
 	vertical-align: bottom;
 	background-color: var(--header-debian-logo);
