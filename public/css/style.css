@@ -38,12 +38,7 @@ html {
 // } */
 
 
-.list-article {
-	list-style: none;
-	padding-bottom: 1.2rem;
-	margin-bottom: 1.2rem;
-	border-bottom: 1.5px solid #b8b7b7;
-}
+
 
 header {
 	/* //padding-bottom: 1.2rem;
@@ -87,7 +82,11 @@ header li:hover {
 }
 
 h1 {
-	padding: 0.9rem 5%;
+	padding: 1em 1em 0 5%;
+}
+
+h2 {
+	padding: 0.78em 0 0.58em 0;
 }
 
 main {
@@ -95,7 +94,65 @@ main {
 }
 
 p {
-	padding: 0.5em 0em;
+	padding: 0.5em 0;
+}
+
+.list-article {
+	list-style: none;
+	padding: 0.7em 1.2em 1.2em 1.2em;
+	border-bottom: 1.5px solid #b8b7b7;
+}
+
+.list-article a:hover {
+	text-decoration: underline;
+	color: #0a54ff
+}
+
+.list-article h2 {
+	padding: 0.5em 0;
+}
+
+.list-article h2 a {
+	font-size: 1.5rem;
+	text-decoration: none;
+	color: #0000b3;
+}
+
+.list-article p {
+	padding: 0.8em 1.4em;
+}
+
+h3 a {
+	text-decoration: none;
+	color: rgb(48, 0, 180);
+}
+
+#TableOfContents{
+	padding: 1.2em 10.5% 2em 7.5%;
+	font-size: 0.896em;
+}
+
+#TableOfContents li{
+	list-style: none;
+	padding: 0.41em 1.1em;
+	border-bottom: 1px solid #b9b9b9;
+}
+
+#TableOfContents li:hover{
+	background-color: #e1e1e1;
+}
+
+#TableOfContents li:first-child{
+	border-top: 1px solid #b9b9b9;
+}
+
+#TableOfContents a{
+	text-decoration: none;
+}
+
+#TableOfContents a:hover{
+	color: #bc0009;
+	text-decoration: underline;
 }
 
 footer {
