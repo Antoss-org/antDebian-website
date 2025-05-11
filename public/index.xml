@@ -1,25 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home page on Debian</title>
-    <link>http://localhost:43737/</link>
-    <description>Recent content in Home page on Debian</description>
+    <title>Debian: The Universal Operating System on Debian</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Debian: The Universal Operating System on Debian</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:43737/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contribute</title>
+      <link>http://localhost:1313/community/contribute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/community/contribute/</guid>
+      <description>How you can join us!</description>
+    </item>
+    <item>
+      <title>More contribute</title>
+      <link>http://localhost:1313/community/more-community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/community/more-community/</guid>
+      <description>Why we do it, and how we do it</description>
+    </item>
+    <item>
+      <title>More system</title>
+      <link>http://localhost:1313/system/more-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/system/more-system/</guid>
+      <description>Why we do it, and how we do it</description>
+    </item>
     <item>
       <title>People</title>
-      <link>http://localhost:43737/about/people/</link>
+      <link>http://localhost:1313/community/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43737/about/people/</guid>
-      <description>Summary for people</description>
+      <guid>http://localhost:1313/community/people/</guid>
+      <description>Who we are and what we do</description>
     </item>
     <item>
       <title>Philosophy</title>
-      <link>http://localhost:43737/about/philosophy/</link>
+      <link>http://localhost:1313/community/philosophy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43737/about/philosophy/</guid>
-      <description>Summary for philosophy</description>
+      <guid>http://localhost:1313/community/philosophy/</guid>
+      <description>Why we do it, and how we do it</description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>http://localhost:1313/system/security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/system/security/</guid>
+      <description>Why we do it, and how we do it</description>
+    </item>
+    <item>
+      <title>Support</title>
+      <link>http://localhost:1313/system/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/system/support/</guid>
+      <description>Why we do it, and how we do it</description>
+    </item>
+    <item>
+      <title>Why</title>
+      <link>http://localhost:1313/system/why/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/system/why/</guid>
+      <description>Why we do it, and how we do it</description>
     </item>
   </channel>
 </rss>

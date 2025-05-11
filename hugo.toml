@@ -1,3 +1,14 @@
 baseURL = 'https://antdebian.antoss.org/'
 languageCode = 'en-us'
 title = 'Debian'
+
+
+[menus]
+  [[menus.about]]
+    name = 'Community'
+    pageRef = '/about/community'
+    weight = 10
+  [[menus.about]]
+    name = 'System'
+    pageRef = '/about/system'
+    weight = 20

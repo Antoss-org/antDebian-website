@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:43737/about/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:43737/categories/</loc>
+    <loc>http://localhost:1313/community/</loc>
   </url><url>
-    <loc>http://localhost:43737/</loc>
+    <loc>http://localhost:1313/community/contribute/</loc>
   </url><url>
-    <loc>http://localhost:43737/about/people/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>http://localhost:43737/about/philosophy/</loc>
+    <loc>http://localhost:1313/community/more-community/</loc>
   </url><url>
-    <loc>http://localhost:43737/tags/</loc>
+    <loc>http://localhost:1313/system/more-system/</loc>
+  </url><url>
+    <loc>http://localhost:1313/community/people/</loc>
+  </url><url>
+    <loc>http://localhost:1313/community/philosophy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system/security/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system/support/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system/why/</loc>
   </url>
 </urlset>

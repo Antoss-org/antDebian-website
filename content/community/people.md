@@ -1,6 +1,6 @@
 ---
 title: "People"
-summary: "Summary for people"
+summary: "Who we are and what we do"
 ---
 
 line from about/people
